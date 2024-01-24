@@ -9,4 +9,4 @@ https://www.codewars.com/kata/567c9f56d83baeed8300000f
 
 - [0-9A-Fa-f]+: Este patrón busca una o más ocurrencias de cualquier carácter que sea un dígito del 0 al 9, una letra de la A a la F en mayúsculas, o una letra de la a a la f en minúsculas. Estos son los caracteres típicos utilizados en los números hexadecimales.
 
-- $: Como se mencionó anteriormente, este símbolo asegura que el patrón precedente sea el final de la cadena. En otras palabras, no puede haber más caracteres después de la secuencia de dígitos y letras hexadecimales
+- $: Este símbolo asegura que el patrón precedente sea el final de la cadena. En otras palabras, no puede haber más caracteres después de la secuencia de dígitos y letras hexadecimales
